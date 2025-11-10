@@ -48,6 +48,10 @@ Thumbs.db
 data/*.csv
 data/*.json
 data/*.xlsx
+!data/catalog.json
+!data/catalog.csv
+!data/train-set.csv
+!data/test-set.csv
 !data/.gitkeep
 
 # Logs
