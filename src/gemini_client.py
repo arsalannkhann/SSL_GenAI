@@ -14,8 +14,8 @@ genai.configure(api_key=GOOGLE_API_KEY)
 # Use Gemini embedding model
 EMBEDDING_MODEL = "models/embedding-001"
 
-# Use Gemini for LLM tasks
-LLM_MODEL = "gemini-pro"
+# Use Gemini for LLM tasks (use fully qualified model name)
+LLM_MODEL = "models/gemini-pro"
 
 
 def get_embedding(text: str) -> List[float]:
