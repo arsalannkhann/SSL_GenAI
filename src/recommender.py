@@ -33,12 +33,33 @@ def recommend_assessments(query: str, top_k: int = 10) -> List[Dict]:
     items = []
     for doc, meta, dist in zip(docs, metas, dists):
         score = 1.0 - dist if dist is not None else 0.0
+        url = (meta or {}).get("url") or ""
+        raw_name = (meta or {}).get("name") or ""
+
+        if not raw_name and url:
+            slug = url.rstrip("/").split("/")[-1]
+            raw_name = slug.replace("-", " ").replace("_", " ").title()
+
+        skills_meta = (meta or {}).get("skills")
+        if isinstance(skills_meta, str):
+            # Stored as string in metadata for Chroma compatibility
+            try:
+                import ast
+
+                skills = ast.literal_eval(skills_meta)
+                if not isinstance(skills, list):
+                    skills = []
+            except Exception:
+                skills = []
+        else:
+            skills = skills_meta
+
         items.append({
-            "name": meta.get("name"),
-            "url": meta.get("url"),
-            "type": meta.get("type"),
-            "duration": meta.get("duration"),
-            "skills": meta.get("skills"),
+            "name": raw_name,
+            "url": url,
+            "type": (meta or {}).get("type") or "",
+            "duration": (meta or {}).get("duration") or "",
+            "skills": skills,
             "score": score,
             "_doc": doc,
         })
