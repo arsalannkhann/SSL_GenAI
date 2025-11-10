@@ -11,7 +11,12 @@ _COLLECTION_NAME = "shl_catalog"
 def get_client():
     global _client
     if _client is None:
-        _client = chromadb.PersistentClient(path=CHROMA_PERSIST_DIR, settings=Settings(allow_reset=False))
+        # Disable telemetry to suppress harmless error messages
+        settings = Settings(
+            allow_reset=False,
+            anonymized_telemetry=False
+        )
+        _client = chromadb.PersistentClient(path=CHROMA_PERSIST_DIR, settings=settings)
     return _client
 
 
