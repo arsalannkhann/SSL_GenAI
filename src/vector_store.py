@@ -24,7 +24,13 @@ def get_collection():
     global _collection
     if _collection is None:
         client = get_client()
-        _collection = client.get_or_create_collection(_COLLECTION_NAME, metadata={"hnsw:space": "cosine"})
+        # Important: Don't specify embedding_function to avoid default Gemini API calls
+        # We handle embeddings manually in our code using local models
+        _collection = client.get_or_create_collection(
+            _COLLECTION_NAME, 
+            metadata={"hnsw:space": "cosine"},
+            embedding_function=None  # Explicitly disable to avoid API calls
+        )
     return _collection
 
 

@@ -1,434 +1,544 @@
 [
   {
-    "name": "",
+    "name": "Automata Fix New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Automata Fix New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Core Java Entry Level New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Core Java Entry Level New - Technical Assessment",
+    "type": "K",
+    "duration": "20-30 minutes",
+    "skills": [
+      "Java"
+    ]
   },
   {
-    "name": "",
+    "name": "Java 8 New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Java 8 New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "Java"
+    ]
   },
   {
-    "name": "",
+    "name": "Core Java Advanced Level New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Core Java Advanced Level New - Technical Assessment",
+    "type": "K",
+    "duration": "45-60 minutes",
+    "skills": [
+      "Java"
+    ]
   },
   {
-    "name": "",
+    "name": "Interpersonal Communications",
     "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Interpersonal Communications - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Communication"
+    ]
   },
   {
-    "name": "",
+    "name": "Entry Level Sales 7 1",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Entry Level Sales 7 1 - Behavioral Assessment",
+    "type": "P",
+    "duration": "20-30 minutes",
+    "skills": [
+      "Sales"
+    ]
   },
   {
-    "name": "",
+    "name": "Entry Level Sales Sift Out 7 1",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Entry Level Sales Sift Out 7 1 - Behavioral Assessment",
+    "type": "P",
+    "duration": "20-30 minutes",
+    "skills": [
+      "Sales"
+    ]
   },
   {
-    "name": "",
+    "name": "Entry Level Sales Solution",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Entry Level Sales Solution - Behavioral Assessment",
+    "type": "P",
+    "duration": "20-30 minutes",
+    "skills": [
+      "Sales"
+    ]
   },
   {
-    "name": "",
+    "name": "Sales Representative Solution",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Sales Representative Solution - Behavioral Assessment",
+    "type": "P",
+    "duration": "30-45 minutes",
+    "skills": [
+      "Sales"
+    ]
   },
   {
-    "name": "",
+    "name": "Business Communication Adaptive",
     "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Business Communication Adaptive - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Communication"
+    ]
   },
   {
-    "name": "",
+    "name": "Technical Sales Associate Solution",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Technical Sales Associate Solution - Technical Assessment",
+    "type": "K",
+    "duration": "30-45 minutes",
+    "skills": [
+      "Sales"
+    ]
   },
   {
-    "name": "",
+    "name": "Svar Spoken English Indian Accent New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Svar Spoken English Indian Accent New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "English Comprehension New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "English Comprehension New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Enterprise Leadership Report",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Enterprise Leadership Report - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Leadership"
+    ]
   },
   {
-    "name": "",
+    "name": "Occupational Personality Questionnaire Opq32r",
     "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Occupational Personality Questionnaire Opq32r - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Opq Leadership Report",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Opq Leadership Report - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Leadership"
+    ]
   },
   {
     "name": "Opq Team Types And Leadership Styles Report",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Opq Team Types And Leadership Styles Report - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Leadership"
+    ]
   },
   {
-    "name": "",
+    "name": "Enterprise Leadership Report 2 0",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Enterprise Leadership Report 2 0 - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Leadership"
+    ]
   },
   {
-    "name": "",
+    "name": "Global Skills Assessment",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Global Skills Assessment - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Verify Verbal Ability Next Generation",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Verify Verbal Ability Next Generation - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Shl Verify Interactive Inductive Reasoning",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Shl Verify Interactive Inductive Reasoning - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Marketing New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Marketing New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "English Comprehension New",
     "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "English Comprehension New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Drupal New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Drupal New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Written English V1",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Written English V1 - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Occupational Personality Questionnaire Opq32r",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Occupational Personality Questionnaire Opq32r - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Search Engine Optimization New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Search Engine Optimization New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Automata Selenium",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Automata Selenium - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Professional 7 1 Solution",
     "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Professional 7 1 Solution - Behavioral Assessment",
+    "type": "P",
+    "duration": "45-60 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Javascript New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Javascript New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "Java",
+      "JavaScript"
+    ]
   },
   {
-    "name": "",
+    "name": "Htmlcss New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Htmlcss New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "HTML",
+      "CSS"
+    ]
   },
   {
-    "name": "",
+    "name": "Css3 New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Css3 New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "CSS"
+    ]
   },
   {
-    "name": "",
+    "name": "Selenium New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Selenium New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Sql Server New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Sql Server New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "SQL"
+    ]
   },
   {
-    "name": "",
+    "name": "Automata Sql New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Automata Sql New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "SQL"
+    ]
   },
   {
-    "name": "",
+    "name": "Manual Testing New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Manual Testing New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Administrative Professional Short Form",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Administrative Professional Short Form - Behavioral Assessment",
+    "type": "P",
+    "duration": "45-60 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Verify Numerical Ability",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Verify Numerical Ability - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Financial Professional Short Form",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Financial Professional Short Form - Behavioral Assessment",
+    "type": "P",
+    "duration": "45-60 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Bank Administrative Assistant Short Form",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Bank Administrative Assistant Short Form - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "General Entry Level Data Entry 7 0 Solution",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "General Entry Level Data Entry 7 0 Solution - Technical Assessment",
+    "type": "K",
+    "duration": "20-30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Basic Computer Literacy Windows 10 New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Basic Computer Literacy Windows 10 New - Technical Assessment",
+    "type": "K",
+    "duration": "20-30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Manager 8 0 Jfa 4310",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Manager 8 0 Jfa 4310 - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Microsoft Excel 365 Essentials New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Microsoft Excel 365 Essentials New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "Excel"
+    ]
   },
   {
-    "name": "",
+    "name": "Digital Advertising New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Digital Advertising New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Writex Email Writing Sales New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Writex Email Writing Sales New - Behavioral Assessment",
+    "type": "P",
+    "duration": "30 minutes",
+    "skills": [
+      "Sales"
+    ]
   },
   {
-    "name": "",
+    "name": "Shl Verify Interactive Numerical Calculation",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Shl Verify Interactive Numerical Calculation - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Professional 7 1 Solution",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Professional 7 1 Solution - Behavioral Assessment",
+    "type": "P",
+    "duration": "45-60 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Sql Server Analysis Services %28ssas%29 %28new%29",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Sql Server Analysis Services %28ssas%29 %28new%29 - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "SQL"
+    ]
   },
   {
-    "name": "",
+    "name": "Python New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Python New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "Python"
+    ]
   },
   {
-    "name": "",
+    "name": "Tableau New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Tableau New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "Tableau"
+    ]
   },
   {
-    "name": "",
+    "name": "Microsoft Excel 365 New",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Microsoft Excel 365 New - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "Excel"
+    ]
   },
   {
-    "name": "",
+    "name": "Professional 7 0 Solution 3958",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Professional 7 0 Solution 3958 - Behavioral Assessment",
+    "type": "P",
+    "duration": "45-60 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   },
   {
-    "name": "",
+    "name": "Data Warehousing Concepts",
     "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
-    "description": "Assessment from Train-Set",
-    "type": null,
-    "duration": null,
-    "skills": []
+    "description": "Data Warehousing Concepts - Technical Assessment",
+    "type": "K",
+    "duration": "30 minutes",
+    "skills": [
+      "General Assessment"
+    ]
   }
 ]
